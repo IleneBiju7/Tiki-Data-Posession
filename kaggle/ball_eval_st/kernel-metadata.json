@@ -1,0 +1,18 @@
+{
+ "id": "ileneb7/ball-eval-soccertrack",
+ "title": "ball-eval-soccertrack",
+ "code_file": "ball_eval_st_kaggle.py",
+ "language": "python",
+ "kernel_type": "script",
+ "is_private": true,
+ "enable_gpu": true,
+ "enable_internet": true,
+ "dataset_sources": [
+  "ileneb7/soccertrack-test-crops",
+  "ileneb7/ball-detector-k-weights"
+ ],
+ "competition_sources": [],
+ "kernel_sources": [
+  "ileneb7/ball-detector-st"
+ ]
+}

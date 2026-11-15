@@ -1,0 +1,13 @@
+{
+  "id": "komalikuttan/ball-detector-soccernet-12",
+  "title": "ball-detector-soccernet-12",
+  "code_file": "ball_soccernet12.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "dataset_sources": ["theoviel/soccernet-tracking"],
+  "competition_sources": [],
+  "kernel_sources": []
+}

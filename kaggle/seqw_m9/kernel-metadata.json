@@ -1,0 +1,1 @@
+{"id": "komalikuttan/possession-seqw-m9", "title": "possession-seqw-m9", "code_file": "seq_train_kaggle.py", "language": "python", "kernel_type": "script", "is_private": true, "enable_gpu": true, "enable_internet": false, "competition_sources": [], "kernel_sources": ["komalikuttan/possession-export-sw"], "dataset_sources": []}

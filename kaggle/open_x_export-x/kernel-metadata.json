@@ -1,0 +1,1 @@
+{"id": "komalikuttan/possession-export-x", "title": "possession-export-x", "code_file": "run_open_x.py", "language": "python", "kernel_type": "script", "is_private": true, "enable_gpu": false, "enable_internet": false, "dataset_sources": ["komalikuttan/possession-open-x"], "competition_sources": [], "kernel_sources": []}

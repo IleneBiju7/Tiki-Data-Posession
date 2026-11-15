@@ -1,0 +1,13 @@
+{
+  "id": "ayelenebiju/ball-detector-soccernet",
+  "title": "ball-detector-soccernet",
+  "code_file": "ball_soccernet.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "dataset_sources": ["theoviel/soccernet-tracking"],
+  "competition_sources": [],
+  "kernel_sources": []
+}

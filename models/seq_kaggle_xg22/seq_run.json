@@ -1,0 +1,1 @@
+{"epochs": 12, "window": 256, "seed": 22, "arch": "gru", "folds": ["dfl_J03WMX", "dfl_J03WN1", "dfl_J03WOH", "dfl_J03WOY", "dfl_J03WPY", "dfl_J03WQQ", "dfl_J03WR9", "metrica_1", "metrica_2", "metrica_3"]}

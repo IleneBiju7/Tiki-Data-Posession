@@ -1,0 +1,16 @@
+{
+ "id": "komalikuttan/possession-ps-s300",
+ "title": "possession-ps-s300",
+ "code_file": "player_set.py",
+ "language": "python",
+ "kernel_type": "script",
+ "is_private": true,
+ "enable_gpu": true,
+ "enable_internet": false,
+ "dataset_sources": [
+  "komalikuttan/possession-open-x",
+  "komalikuttan/possession-open-sc"
+ ],
+ "competition_sources": [],
+ "kernel_sources": []
+}

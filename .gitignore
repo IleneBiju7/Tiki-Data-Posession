@@ -1,0 +1,39 @@
+# the competition data is never committed (RULES.md: do not redistribute the data)
+data/
+__pycache__/
+.DS_Store
+logs_*.txt
+cache/
+
+# trained models: only the current final set is shared (all trained on external data only)
+models/*
+!models/possession_lgbm_v43x.txt
+!models/possession_lgbm_v44x.txt
+!models/possession_lgbm_v45x.txt
+!models/config_v43x.json
+!models/config_v44x.json
+!models/config_v45x.json
+!models/cv_v43x_hard.json
+!models/cv_v44x_hard.json
+!models/cv_v45x_hard.json
+!models/stack_v43x+v44x+v45x+seqMx@4+seqGx@2+seqPS4@3_c_p_s_tok_z.txt
+!models/stack_v43x+v44x+v45x+seqMx@4+seqGx@2+seqPS4@3_c_p_s_tok_z.json
+!models/seq/
+models/seq/*
+!models/seq/meta.json
+!models/seq/dataset-metadata.json
+# the sequence networks of the final (CNN seeds xm7-xm9, xm11-xm14; GRU seeds xg20-xg24)
+!models/seq_kaggle_xm*/
+!models/seq_kaggle_xg*/
+models/seq_kaggle_x*/*.log
+# the player networks of the final (seeds 7, 100, 200, 300)
+!models/seq_kaggle_ps_*/
+models/seq_kaggle_ps_*/*.log
+!models/weights/
+models/weights/*
+!models/weights/ball_soccernet_k.pt
+!models/weights/ball_st_k3.pt
+
+# predictions: only the current final
+predictions/*
+!predictions/final.csv
