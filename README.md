@@ -118,6 +118,7 @@ python ball_detect_v2.py 1 ball_st_k3.pt t3 t1
 - SoccerTrack v2: https://huggingface.co/datasets/atomscott/soccertrack-v2, CC BY 4.0 (arXiv 2508.01802).
 - SkillCorner open data: https://github.com/SkillCorner/opendata
 - Ultralytics YOLO11, with COCO weights as the detectors' starting point: AGPL-3.0.
+- Claude (Anthropic), as a coding assistant: it helped write, run and review the code. No data was uploaded to it. Claude does not run as part of the pipeline that makes the predictions.
 
 ## Known weak spots
 
